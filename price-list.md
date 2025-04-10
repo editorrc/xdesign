@@ -98,7 +98,6 @@
     <td style="text-align:center;">❌ Нет</td>
     <td style="text-align:center;">✔ Да</td>
     <td style="text-align:center;">✔ Да – для всего персонала<br>(2–3 варианта)</td>
-    <td></td>
   </tr>
   <tr>
     <td><i class="fas fa-comment-alt"></i> Дизайн чата/каналов</td>
