@@ -4,7 +4,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
 
 <small>
-<table border="1" cellspacing="0" cellpadding="4" style="width:100%; font-size:10px; line-height:1.5; border-collapse: collapse;">
+<table border="1" cellspacing="0" cellpadding="4" style="width:100%; margin-top: 20px; margin-bottom: 20px; font-size:10px; line-height:1.6; border-collapse: collapse;">
   <!-- Заголовок таблицы -->
   <tr style="background-color:#e0e0e0;">
     <th style="width:30%;">Наименование услуги</th>
