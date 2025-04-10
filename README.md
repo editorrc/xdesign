@@ -15,7 +15,7 @@
   </thead>
   <tbody>
     <tr>
-      <th colspan="4" style="text-align: center;">
+      <th colspan="4" style="text-align: center; padding-top: 10px;">
         <h3>Фирменный стиль</h3>
       </th>
     </tr>
@@ -50,7 +50,7 @@
       <td style="text-align: center;">500</td>
     </tr>
     <tr>
-          <th colspan="4" style="text-align: center;">
+          <th colspan="4" style="text-align: center; padding-top: 10px;">
             <h3>II. Оформление ветки на Лиге</h3>
           </th>
         </tr>
@@ -85,7 +85,7 @@
           <td style="text-align: center;">500</td>
         </tr>
         <tr>
-          <th colspan="4" style="text-align: center;">
+          <th colspan="4" style="text-align: center; padding-top: 10px;">
             <h3>III. Дизайн для Telegram</h3>
           </th>
         </tr>
@@ -120,7 +120,7 @@
           <td style="text-align: center;">500</td>
         </tr>
         <tr>
-          <th colspan="4" style="text-align: center;">
+          <th colspan="4" style="text-align: center; padding-top: 10px;">
             <h3>IV. Прайс (одностраничное изображение)</h3>
           </th>
         </tr>
@@ -137,7 +137,7 @@
           <td style="text-align: center;">500</td>
         </tr>
         <tr>
-          <th colspan="4" style="text-align: center;">
+          <th colspan="4" style="text-align: center; padding-top: 10px;">
             <h3>V. Правки</h3>
           </th>
         </tr>
@@ -159,7 +159,7 @@
           </th>
         </tr>
         <tr>
-          <th colspan="4" class="cost-row" style="text-align: center;">
+          <th colspan="4" class="cost-row" style="text-align: center; padding-top: 10px;">
             <h3>ИТОГО</h3>
           </th>
         </tr>
