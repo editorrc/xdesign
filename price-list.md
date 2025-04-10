@@ -5,15 +5,15 @@
 ## Описание пакетов услуг
 
 <small>
-<table border="1" cellspacing="0" cellpadding="4" style="width:100%; font-size:9px; line-height:1.5; border-collapse: collapse; margin:20px 0;">
+<table border="1" cellspacing="0" cellpadding="4" style="width:100%; font-size:8px; line-height:1.3; border-collapse: collapse; margin:10px 0;">
   <!-- Заголовок таблицы -->
   <tr style="background-color:#f7f7f7;">
-    <th style="width:40%; text-align:left;">Услуга</th>
-    <th style="width:15%; text-align:center;">Старт</th>
-    <th style="width:15%; text-align:center;">Оптима</th>
-    <th style="width:15%; text-align:center;">Премиум</th>
+    <th style="width:50%; text-align:center; font-weight:bold"><h2>Услуга</h2></th>
+    <th style="width:15%; text-align:center; font-weight:bold"><h2>Старт</h2></th>
+    <th style="width:15%; text-align:center; font-weight:bold"><h2>Оптима</h2></th>
+    <th style="width:20%; text-align:center; font-weight:bold"><h2>Премиум</h2></th>
   </tr>
-  <tr><td colspan="5" style="height:20px;"></td></tr>
+  <tr><td colspan="5" style="height:10px;"></td></tr>
   <!-- I. Фирменный стиль -->
   <tr style="background-color:#e9e9e9; font-weight:bold; text-align:center;">
     <td colspan="5"><i class="fas fa-paint-brush"></i><h3> I. Фирменный стиль</h3></td>
@@ -39,7 +39,7 @@
   <tr>
     <td><i class="fas fa-image"></i> Изображения для постов<br><em>(заглушки)</em></td>
     <td style="text-align:center;">📷 Базовый набор</td>
-    <td style="text-align:center;">📅 С расчётом на 30 дней</td>
+    <td style="text-align:center;">📅 Материал на 30 дней</td>
     <td style="text-align:center;">🤖 С шаблонами для ИИ</td>
   </tr>
   <tr>
@@ -127,7 +127,7 @@
   
   <!-- IV. Прайс (одностраничное изображение) -->
   <tr style="background-color:#e9e9e9; font-weight:bold; text-align:center;">
-    <td colspan="5"><i class="fas fa-file-alt"></i><h3> IV. Прайс (одностраничное изображение)</h3>h3></td>
+    <td colspan="5"><i class="fas fa-file-alt"></i><h3> IV. Прайс (одностраничное изображение)</h3></td>
   </tr>
   
   <tr>
@@ -160,51 +160,46 @@
     <td style="text-align:center;">50</td>
     <td style="text-align:center;">Обсуждается</td>
   </tr>
-  <tr><td>Правки вносятся на финальной стадии каждой работы.</td></tr> 
-  <tr><td colspan="5" style="height:20px;"></td></tr>
-  
-  <!-- ИТОГО -->
-  <tr style="background-color:#d0d0d0; font-weight:bold; text-align:center;">
-    <td colspan="5"><h3>ИТОГО</h3></td>
-  </tr>
-  <tr>
-    <td colspan="2" style="text-align:right;">Старт:</td>
-    <td colspan="3" style="text-align:left;">700 US$</td>
-  </tr>
-  <tr>
-    <td colspan="2" style="text-align:right;">Оптима:</td>
-    <td colspan="3" style="text-align:left;">1200 US$</td>
-  </tr>
-  <tr>
-    <td colspan="2" style="text-align:right;">Премиум:</td>
-    <td colspan="3" style="text-align:left;">2000 US$</td>
+  <tr style="background-color:#e9e9e9; font-weight:bold; text-align:center;">
+    <td colspan="5" style="align:center"><i>Правки вносятся на финальной стадии каждой работы.</i></td>
   </tr>
   <tr><td colspan="5" style="height:20px;"></td></tr>
-  
-  <!-- Условия работы -->
-  <tr style="background-color:#d0d0d0; font-weight:bold; text-align:center;">
-    <td colspan="5"><b><h3>Условия сотрудничества</h3></b></td>
-  </tr>
-  <tr>
-    <td colspan="5">
-      - Предоплата: 50% от стоимости выбранного пакета.<br>
-      - Сроки: Поэтапное оформление, полный дизайн – за 1 месяц.<br>
-      - Оплата: Через гаранта или 100% предоплата (без посредников).
+</table>
+
+<table border="1" cellspacing="0" cellpadding="4" style="width:100%; font-size:7px; line-height:1.4; border-collapse: collapse; margin:10px 0;">
+  <tr style="background-color:#f7f7f7;">
+    <td colspan="4" style="text-align:center; font-weight:bold; font-size:12px;">
+      <i class="fas fa-calculator"></i> <h3>ИТОГО</h3>
     </td>
   </tr>
-  <tr><td colspan="5" style="height:20px;"></td></tr>
-  
-  <!-- Дополнительные услуги -->
-  <tr style="background-color:#d0d0d0; font-weight:bold; text-align:center;">
-    <td colspan="5">Дополнительные услуги</td>
-  </tr>
   <tr>
-    <td colspan="5">
-      - Сайт-лендинг (WordPress/Tilda/Wix): от 200 US$<br>
-      - Нейминг магазина: от 200 US$<br>
-      - Саппорт/админ в Telegram: Раздельно – от 75 US$/неделя; Вместе – 100 US$/неделя (антиспам, боты)<br>
-      - PR-услуги: от 50 US$/неделя (по запросу)
+    <td colspan="4" style="text-align:center; padding:6px 0;">
+      <strong>Старт:</strong> 700 US$ &nbsp;&nbsp;|&nbsp;&nbsp;
+      <strong>Оптима:</strong> 1200 US$ &nbsp;&nbsp;|&nbsp;&nbsp;
+      <strong>Премиум:</strong> 2000 US$
     </td>
   </tr>
 </table>
+  
+<!-- Условия сотрудничества -->
+<h3 style="margin-top:20px; font-size:12px;"><i class="fas fa-handshake"></i> Условия сотрудничества</h3>
+<ul style="font-size:7px; line-height:1.4; margin-top:5px;">
+  <li>◆ Предоплата: 50% от стоимости выбранного пакета.</li>
+  <li>◆ Сроки: Поэтапное оформление, полный дизайн – за 1 месяц.</li>
+  <li>◆ Оплата: Через гаранта или 100% предоплата (без посредников).</li>
+</ul>
+  
+<!-- Дополнительные услуги -->
+<h3 style="margin-top:20px; font-size:12px;"><i class="fas fa-plus-circle"></i> Дополнительные услуги</h3>
+<ul style="font-size:7px; line-height:1.4; margin-top:5px;">
+  <li>◆ Сайт-лендинг (WordPress / Tilda / Wix): от 200 US$</li>
+  <li>◆ Нейминг магазина: от 200 US$</li>
+  <li>◆ Саппорт/админ в Telegram:
+    <ul style="margin-top:2px; margin-bottom:2px;">
+      <li>◇ Раздельно – от 75 US$ / неделя</li>
+      <li>◇ Вместе – 100 US$ / неделя (антиспам, боты)</li>
+    </ul>
+  </li>
+  <li>◆ PR-специалист (подбор площадок + рассылка): от 50 US$ / неделя</li>
+</ul>
 </small>
