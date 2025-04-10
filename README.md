@@ -10,28 +10,17 @@
 <table>
     <thead>
         <tr>
-            <th colspan="4" style="text-align:center;">
-                <h2>Услуга</h2>
-            </th>
-            <th style="text-align:center;">
-                <h2>Старт</h2>
-            </th>
-            <th style="text-align:center;">
-                <h2>Оптима</h2>
-            </th>
-            <th style="text-align:center;">
-                <h2>Премиум</h2>
-            </th>
+            <th style="text-align:left;">Услуга</th>
+            <th style="text-align:center;">Старт</th>
+            <th style="text-align:center;">Оптима</th>
+            <th style="text-align:center;">Премиум</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td colspan="7"></td>
-        </tr>
-        <tr>
-            <td colspan="7" style="text-align:center;">
+            <th colspan="4" style="text-align:center;">
                 <h3>I. Фирменный стиль</h3>
-            </td>
+            </th>
         </tr>
         <tr>
             <td>Разработка логотипа <em>(концепций)</em></td>
@@ -43,11 +32,11 @@
             <td>Разработка цветовой палитры</td>
             <td style="text-align:center;">❌ Нет</td>
             <td style="text-align:center;">✔ Да</td>
-        <td style="text-align:center;">✔ Да</td>
+            <td style="text-align:center;">✔ Да</td>
         </tr>
         <tr>
             <td>Разработка шрифта</td>
-            <td style="text-align:center;">❌ Нет</td>
+            <td style="text-align:left;">❌ Нет</td>
             <td style="text-align:center;">✔ Да</td>
             <td style="text-align:center;">✔ Да + эмоджи-пак для Telegram</td>
         </tr>
@@ -64,12 +53,9 @@
             <td style="text-align:center;">500</td>
         </tr>
         <tr>
-            <td colspan="7"></td>
-        </tr>
-        <tr>
-            <td colspan="7" style="text-align:center;">
+            <th colspan="4" style="text-align:center;">
                 <h3>II. Оформление ветки на Лиге</h3>
-            </td>
+            </th>
         </tr>
         <tr>
             <td>Дизайн постов <em>(рекламных)</em></td>
@@ -102,12 +88,9 @@
             <td style="text-align:center;">500</td>
         </tr>
         <tr>
-            <td colspan="7"></td>
-        </tr>
-        <tr>
-            <td colspan="7" style="text-align:center;">
+            <th colspan="4" style="text-align:center;">
                 <h3>III. Дизайн для Telegram</h3>
-            </td>
+            </th>
         </tr>
         <tr>
             <td>Аватарки</td>
@@ -140,12 +123,9 @@
             <td style="text-align:center;">500</td>
         </tr>
         <tr>
-            <td colspan="7"></td>
-        </tr>
-        <tr>
-            <td colspan="7" style="text-align:center;">
+            <th colspan="4" style="text-align:center;">
                 <h3>IV. Прайс (одностраничное изображение)</h3>
-            </td>
+            </th>
         </tr>
         <tr>
             <td>Оформление прайса (изображение + Телеграм-пост)</td>
@@ -160,12 +140,9 @@
             <td style="text-align:center;">500</td>
         </tr>
         <tr>
-            <td colspan="7"></td>
-        </tr>
-        <tr>
-            <td colspan="7" style="text-align:center;">
+            <th colspan="4" style="text-align:center;">
                 <h3>V. Правки</h3>
-            </td>
+            </th>
         </tr>
         <tr>
             <td>Пакет правок (на весь проект)</td>
@@ -180,29 +157,22 @@
             <td style="text-align:center;">Обсуждается</td>
         </tr>
         <tr>
-            <td colspan="7" style="text-align:center;">
+            <td colspan="4" style="text-align:center;">
                 <i>Правки вносятся на финальной стадии каждой работы.</i>
             </td>
         </tr>
         <tr>
-            <td colspan="7"></td>
+            <th colspan="4" style="text-align:center;">
+                <h3>ИТОГО</h3>
+            </th>
+        </tr>
+        <tr>
+            <td></td>
+            <td style="text-align:center;"><strong>700 US$</strong></td>
+            <td style="text-align:center;"><strong>1200 US$</strong></td>
+            <td style="text-align:center;"><strong>2000 US$</strong></td>
         </tr>
     </tbody>
-</table>
-
-<table>
-    <tr>
-        <td colspan="4" style="text-align:center;">
-            <h3>ИТОГО</h3>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="4" style="text-align:center;">
-            <strong>Старт:</strong> 700 US$ |
-            <strong>Оптима:</strong> 1200 US$ |
-            <strong>Премиум:</strong> 2000 US$
-        </td>
-    </tr>
 </table>
 </small>
 
