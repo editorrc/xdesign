@@ -27,15 +27,15 @@
     </tr>
     <tr>
       <td style="text-align: left;">Разработка цветовой палитры</td>
-      <td style="text-align: center;">Нет</td>
+      <td style="text-align: center;">Базово</td>
       <td style="text-align: center;">Да</td>
-      <td style="text-align: center;">Да</td>
+      <td style="text-align: center;">Создание палеты</td>
     </tr>
     <tr>
       <td style="text-align: left;">Разработка шрифта</td>
       <td style="text-align: center;">Нет</td>
       <td style="text-align: center;">Да</td>
-      <td style="text-align: center;">Да + эмоджи-пак для Telegram</td>
+      <td style="text-align: center;">Да + эмоджи-пак в TG</td>
     </tr>
     <tr>
       <td style="text-align: left;">Изображения для постов (заглушки)</td>
@@ -64,7 +64,7 @@
           <td style="text-align: left;">Темы</td>
           <td style="text-align: center;">5 тем</td>
           <td style="text-align: center;">7–10 тем</td>
-          <td style="text-align: center;">Полное оформление + поддержка (30 дней)</td>
+          <td style="text-align: center;">Полное оформление + поддержка 1 месяц</td>
         </tr>
         <tr>
           <td style="text-align: left;">Разделители</td>
@@ -99,7 +99,7 @@
           <td style="text-align: left;">Дизайн чата/каналов</td>
           <td style="text-align: center;">Нет</td>
           <td style="text-align: center;">Да</td>
-          <td style="text-align: center;">Да + поддержка (30 дней)</td>
+          <td style="text-align: center;">Да + поддержка 1 мес.</td>
         </tr>
         <tr>
           <td style="text-align: left;">Шаблоны для постов</td>
@@ -111,7 +111,7 @@
           <td style="text-align: left;">Видео для Stories</td>
           <td style="text-align: center;">Нет</td>
           <td style="text-align: center;">1 видео</td>
-          <td style="text-align: center;">5 видео + шаблон</td>
+          <td style="text-align: center;">3 видео + шаблон</td>
         </tr>
         <tr style="background-color: #f0f0f0;">
           <td style="text-align: left;">Стоимость (US$)</td>
@@ -128,7 +128,7 @@
           <td style="text-align: left;">Оформление прайса (изображение + Телеграм-пост)</td>
           <td style="text-align: center;">Базово</td>
           <td style="text-align: center;">Да</td>
-          <td style="text-align: center;">Да + исходник + поддержка</td>
+          <td style="text-align: center;">Да + исходник + поддержка на пол года(!)</td>
         </tr>
         <tr style="background-color: #f0f0f0;">
           <td style="text-align: left;">Стоимость (US$)</td>
@@ -179,6 +179,8 @@
 - **Предоплата**: 50% от стоимости выбранного пакета.
 - **Сроки**: поэтапное оформление, полный дизайн – за 1 месяц.
 - **Оплата**: через гаранта или 100% предоплата (без посредников).
+
+  (!) Поддержка в разделе "прайс" на пол года предусматривают только замену числовых значений, при полной переработке / замене товарных позиций, услуга оплачивается дополнительно!
 
 ### Дополнительные услуги
 
