@@ -154,8 +154,8 @@
           <td style="text-align: center;">Обсуждается</td>
         </tr>
         <tr>
-          <th colspan="4" style="text-align: center; font-style: italic;">
-            <i>Правки вносятся на финальной стадии каждой работы.</i>
+          <th colspan="4" style="text-align: center; padding-top: 10px; font-style: italic;">
+            <i>Правки вносятся на финальной стадии каждого блока услуг, - Прайс отдельно от Telegram и Лиги, и наоборот.</i>
           </th>
         </tr>
         <tr>
