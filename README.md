@@ -45,9 +45,9 @@
     </tr>
     <tr style="background-color: #f0f0f0;">
       <td style="text-align: left;">Стоимость (US$)</td>
-      <td style="text-align: center;">200</td>
-      <td style="text-align: center;">350</td>
-      <td style="text-align: center;">500</td>
+      <td style="text-align: center;"><b>200</b></td>
+      <td style="text-align: center;"><b>350</b></td>
+      <td style="text-align: center;"><b>500</b></td>
     </tr>
     <tr>
           <th colspan="4" style="text-align: center; padding-top: 10px;">
@@ -80,9 +80,9 @@
         </tr>
         <tr style="background-color: #f0f0f0;">
           <td style="text-align: left;">Стоимость (US$)</td>
-          <td style="text-align: center;">250</td>
-          <td style="text-align: center;">300</td>
-          <td style="text-align: center;">500</td>
+          <td style="text-align: center;"><b>250</b></td>
+          <td style="text-align: center;"><b>300</b></td>
+          <td style="text-align: center;"><b>500</b></td>
         </tr>
         <tr>
           <th colspan="4" style="text-align: center; padding-top: 10px;">
@@ -115,9 +115,9 @@
         </tr>
         <tr style="background-color: #f0f0f0;">
           <td style="text-align: left;">Стоимость (US$)</td>
-          <td style="text-align: center;">150</td>
-          <td style="text-align: center;">300</td>
-          <td style="text-align: center;">500</td>
+          <td style="text-align: center;"><b>150</b></td>
+          <td style="text-align: center;"><b>300</b></td>
+          <td style="text-align: center;"><b>500</b></td>
         </tr>
         <tr>
           <th colspan="4" style="text-align: center; padding-top: 10px;">
@@ -132,9 +132,9 @@
         </tr>
         <tr style="background-color: #f0f0f0;">
           <td style="text-align: left;">Стоимость (US$)</td>
-          <td style="text-align: center;">100</td>
-          <td style="text-align: center;">250</td>
-          <td style="text-align: center;">500</td>
+          <td style="text-align: center;"><b>100</b></td>
+          <td style="text-align: center;"><b>250</b></td>
+          <td style="text-align: center;"><b>500</b></td>
         </tr>
         <tr>
           <th colspan="4" style="text-align: center; padding-top: 10px;">
