@@ -10,10 +10,10 @@
 <table>
     <thead>
         <tr>
-            <th style="text-align:left;">Услуга</th>
-            <th style="text-align:center;">Старт</th>
-            <th style="text-align:center;">Оптима</th>
-            <th style="text-align:center;">Премиум</th>
+            <th style="text-align:left; font-size: 1.1em;">Услуга</th>
+            <th style="text-align:center; font-size: 1.1em;">Старт</th>
+            <th style="text-align:center; font-size: 1.1em;">Оптима</th>
+            <th style="text-align:center; font-size: 1.1em;">Премиум</th>
         </tr>
     </thead>
     <tbody>
@@ -24,33 +24,33 @@
         </tr>
         <tr>
             <td>Разработка логотипа <em>(концепций)</em></td>
-            <td style="text-align:center;">🔧 Только адаптация</td>
-            <td style="text-align:center;">🖌️ 2 концепции</td>
-            <td style="text-align:center;">🎨 Полная разработка (логотип + разные форматы)</td>
+            <td style="text-align:center;">• Только адаптация</td>
+            <td style="text-align:center;">• 2 концепции</td>
+            <td style="text-align:center;">• Полная разработка (логотип + разные форматы)</td>
         </tr>
         <tr>
             <td>Разработка цветовой палитры</td>
-            <td style="text-align:center;">❌ Нет</td>
-            <td style="text-align:center;">✔ Да</td>
-            <td style="text-align:center;">✔ Да</td>
+            <td style="text-align:center;">• Нет</td>
+            <td style="text-align:center;">• Да</td>
+            <td style="text-align:center;">• Да</td>
         </tr>
         <tr>
             <td>Разработка шрифта</td>
-            <td style="text-align:left;">❌ Нет</td>
-            <td style="text-align:center;">✔ Да</td>
-            <td style="text-align:center;">✔ Да + эмоджи-пак для Telegram</td>
+            <td style="text-align:left;">• Нет</td>
+            <td style="text-align:center;">• Да</td>
+            <td style="text-align:center;">• Да + эмоджи-пак для Telegram</td>
         </tr>
         <tr>
             <td>Изображения для постов <em>(заглушки)</em></td>
-            <td style="text-align:center;">📷 Базовый набор</td>
-            <td style="text-align:center;">📅 Материал на 30 дней</td>
-            <td style="text-align:center;">🤖 С шаблонами для ИИ</td>
+            <td style="text-align:center;">• Базовый набор</td>
+            <td style="text-align:center;">• Материал на 30 дней</td>
+            <td style="text-align:center;">• С шаблонами для ИИ</td>
         </tr>
-        <tr>
+        <tr style="background-color: #f0f0f0;">
             <td>Стоимость (US$)</td>
-            <td style="text-align:center;">200</td>
-            <td style="text-align:center;">350</td>
-            <td style="text-align:center;">500</td>
+            <td style="text-align:center;">• 200</td>
+            <td style="text-align:center;">• 350</td>
+            <td style="text-align:center;">• 500</td>
         </tr>
         <tr>
             <th colspan="4" style="text-align:center;">
@@ -59,33 +59,33 @@
         </tr>
         <tr>
             <td>Дизайн постов <em>(рекламных)</em></td>
-            <td style="text-align:center;">1 пост</td>
-            <td style="text-align:center;">2 поста + макет</td>
-            <td style="text-align:center;">3 вида заготовок + рассылка</td>
+            <td style="text-align:center;">• 1 пост</td>
+            <td style="text-align:center;">• 2 поста + макет</td>
+            <td style="text-align:center;">• 3 вида заготовок + рассылка</td>
         </tr>
         <tr>
             <td>Темы</td>
-            <td style="text-align:center;">5 тем</td>
-            <td style="text-align:center;">7–10 тем</td>
-            <td style="text-align:center;">Полное оформление + поддержка (30 дней)</td>
+            <td style="text-align:center;">• 5 тем</td>
+            <td style="text-align:center;">• 7–10 тем</td>
+            <td style="text-align:center;">• Полное оформление + поддержка (30 дней)</td>
         </tr>
         <tr>
             <td>Разделители</td>
-            <td style="text-align:center;">❌ Нет</td>
-            <td style="text-align:center;">3–4 разделителя</td>
-            <td style="text-align:center;">1 макет</td>
+            <td style="text-align:center;">• Нет</td>
+            <td style="text-align:center;">• 3–4 разделителя</td>
+            <td style="text-align:center;">• 1 макет</td>
         </tr>
         <tr>
             <td>Макет баннера (1000×180px)</td>
-            <td style="text-align:center;">1 макет, простая анимация</td>
-            <td style="text-align:center;">1 макет, анимация</td>
-            <td style="text-align:center;">2 макета (статика + анимация)</td>
+            <td style="text-align:center;">• 1 макет, простая анимация</td>
+            <td style="text-align:center;">• 1 макет, анимация</td>
+            <td style="text-align:center;">• 2 макета (статика + анимация)</td>
         </tr>
-        <tr>
+        <tr style="background-color: #f0f0f0;">
             <td>Стоимость (US$)</td>
-            <td style="text-align:center;">250</td>
-            <td style="text-align:center;">300</td>
-            <td style="text-align:center;">500</td>
+            <td style="text-align:center;">• 250</td>
+            <td style="text-align:center;">• 300</td>
+            <td style="text-align:center;">• 500</td>
         </tr>
         <tr>
             <th colspan="4" style="text-align:center;">
@@ -94,33 +94,33 @@
         </tr>
         <tr>
             <td>Аватарки</td>
-            <td style="text-align:center;">❌ Нет</td>
-            <td style="text-align:center;">✔ Да</td>
-            <td style="text-align:center;">✔ Да – для всего персонала (2–3 варианта)</td>
+            <td style="text-align:center;">• Нет</td>
+            <td style="text-align:center;">• Да</td>
+            <td style="text-align:center;">• Да – для всего персонала (2–3 варианта)</td>
         </tr>
         <tr>
             <td>Дизайн чата/каналов</td>
-            <td style="text-align:center;">❌ Нет</td>
-            <td style="text-align:center;">✔ Да</td>
-            <td style="text-align:center;">✔ Да + поддержка (30 дней)</td>
+            <td style="text-align:center;">• Нет</td>
+            <td style="text-align:center;">• Да</td>
+            <td style="text-align:center;">• Да + поддержка (30 дней)</td>
         </tr>
         <tr>
             <td>Шаблоны для постов</td>
-            <td style="text-align:center;">5 стандартных</td>
-            <td style="text-align:center;">10 шаблонов</td>
-            <td style="text-align:center;">Полная проработка (авторассылка, поддержка, обучение)</td>
+            <td style="text-align:center;">• 5 стандартных</td>
+            <td style="text-align:center;">• 10 шаблонов</td>
+            <td style="text-align:center;">• Полная проработка (авторассылка, поддержка, обучение)</td>
         </tr>
         <tr>
             <td>Видео для Stories</td>
-            <td style="text-align:center;">❌ Нет</td>
-            <td style="text-align:center;">1 видео</td>
-            <td style="text-align:center;">5 видео + шаблон</td>
+            <td style="text-align:center;">• Нет</td>
+            <td style="text-align:center;">• 1 видео</td>
+            <td style="text-align:center;">• 5 видео + шаблон</td>
         </tr>
-        <tr>
+        <tr style="background-color: #f0f0f0;">
             <td>Стоимость (US$)</td>
-            <td style="text-align:center;">150</td>
-            <td style="text-align:center;">300</td>
-            <td style="text-align:center;">500</td>
+            <td style="text-align:center;">• 150</td>
+            <td style="text-align:center;">• 300</td>
+            <td style="text-align:center;">• 500</td>
         </tr>
         <tr>
             <th colspan="4" style="text-align:center;">
@@ -129,15 +129,15 @@
         </tr>
         <tr>
             <td>Оформление прайса (изображение + Телеграм-пост)</td>
-            <td style="text-align:center;">Базово</td>
-            <td style="text-align:center;">✔ Да</td>
-            <td style="text-align:center;">✔ Да + исходник + поддержка</td>
+            <td style="text-align:center;">• Базово</td>
+            <td style="text-align:center;">• Да</td>
+            <td style="text-align:center;">• Да + исходник + поддержка</td>
         </tr>
-        <tr>
+        <tr style="background-color: #f0f0f0;">
             <td>Стоимость (US$)</td>
-            <td style="text-align:center;">100</td>
-            <td style="text-align:center;">250</td>
-            <td style="text-align:center;">500</td>
+            <td style="text-align:center;">• 100</td>
+            <td style="text-align:center;">• 250</td>
+            <td style="text-align:center;">• 500</td>
         </tr>
         <tr>
             <th colspan="4" style="text-align:center;">
@@ -146,15 +146,15 @@
         </tr>
         <tr>
             <td>Пакет правок (на весь проект)</td>
-            <td style="text-align:center;">1 пакет</td>
-            <td style="text-align:center;">2 пакета</td>
-            <td style="text-align:center;">5 пакетов</td>
+            <td style="text-align:center;">• 1 пакет</td>
+            <td style="text-align:center;">• 2 пакета</td>
+            <td style="text-align:center;">• 5 пакетов</td>
         </tr>
         <tr>
             <td>Доп.пакет правок (US$)</td>
-            <td style="text-align:center;">20</td>
-            <td style="text-align:center;">50</td>
-            <td style="text-align:center;">Обсуждается</td>
+            <td style="text-align:center;">• 20</td>
+            <td style="text-align:center;">• 50</td>
+            <td style="text-align:center;">• Обсуждается</td>
         </tr>
         <tr>
             <td colspan="4" style="text-align:center;">
@@ -166,11 +166,11 @@
                 <h3>ИТОГО</h3>
             </th>
         </tr>
-        <tr>
-            <td></td>
-            <td style="text-align:center;"><strong>700 US$</strong></td>
-            <td style="text-align:center;"><strong>1200 US$</strong></td>
-            <td style="text-align:center;"><strong>2000 US$</strong></td>
+        <tr style="background-color: #f0f0f0;">
+            <td style="text-align:left;">Стоимость за пакет</td>
+            <td style="text-align:center;">• 700 US$</td>
+            <td style="text-align:center;">• 1200 US$</td>
+            <td style="text-align:center;">• 2000 US$</td>
         </tr>
     </tbody>
 </table>
