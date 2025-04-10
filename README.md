@@ -159,7 +159,7 @@
           </th>
         </tr>
         <tr>
-          <th colspan="4" style="text-align: center;">
+          <th colspan="4" class="cost-row" style="text-align: center;">
             <h3>ИТОГО</h3>
           </th>
         </tr>
