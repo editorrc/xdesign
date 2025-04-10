@@ -1,90 +1,55 @@
-<!DOCTYPE html>
-<html lang="ru">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>xdesign</title>
-    <style>
-      body {
-        font-family: Arial, sans-serif;
-        margin: 20px;
-      }
-      h1 {
-        text-align: center;
-        color: #333;
-      }
-      h2 {
-        color: #0056b3;
-        margin-top: 20px;
-      }
-      p {
-        line-height: 1.6;
-      }
-      strong {
-        font-weight: bold;
-      }
-      .content {
-        margin-left: 20px;
-        margin-right: 20px;
-      }
-    </style>
-  </head>
-  <body>
-    <h1>xdesign</h1>
-    <div class="content">
-      <h2><strong>Общая информация</strong></h2>
-      <p>
-        Данная смета включает разработку полного дизайн-проекта для магазина "под ключ" 
-        (фирменный стиль, дизайн-макеты, оформление онлайн-платформ). Предусмотрены три варианта: 
-        <strong>Старт</strong>, <strong>Оптима</strong> и <strong>Премиум</strong>, различающиеся по объему и детализации работ.
-      </p>
-    <br>
-    <table>
-      <thead>
-        <tr>
-          <th style="text-align: left; font-size: 1.5em; padding-right: 10px;">Услуга</th>
-          <th style="text-align: center; font-size: 1.5em; padding-left: 10px; padding-right: 10px;">Старт</th>
-          <th style="text-align: center; font-size: 1.5em; padding-left: 10px; padding-right: 10px;">Оптима</th>
-          <th style="text-align: center; font-size: 1.5em; padding-left: 10px;">Премиум</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <th colspan="4" style="text-align: center;">
-            <h3>I. Фирменный стиль</h3>
-          </th>
-        </tr>
-        <tr>
-          <td style="text-align: left;">Разработка логотипа <em>(концепций)</em></td>
-          <td style="text-align: center;">Только адаптация</td>
-          <td style="text-align: center;">2 концепции</td>
-          <td style="text-align: center;">Полная разработка (логотип + разные форматы)</td>
-        </tr>
-        <tr>
-          <td style="text-align: left;">Разработка цветовой палитры</td>
-          <td style="text-align: center;">Нет</td>
-          <td style="text-align: center;">Да</td>
-          <td style="text-align: center;">Да</td>
-        </tr>
-        <tr>
-          <td style="text-align: left;">Разработка шрифта</td>
-          <td style="text-align: center;">Нет</td>
-          <td style="text-align: center;">Да</td>
-          <td style="text-align: center;">Да + эмоджи-пак для Telegram</td>
-        </tr>
-        <tr>
-          <td style="text-align: left;">Изображения для постов <em>(заглушки)</em></td>
-          <td style="text-align: center;">Базовый набор</td>
-          <td style="text-align: center;">Материал на 30 дней</td>
-          <td style="text-align: center;">С шаблонами для ИИ</td>
-        </tr>
-        <tr style="background-color: #f0f0f0;">
-          <td style="text-align: left;">Стоимость (US$)</td>
-          <td style="text-align: center;">200</td>
-          <td style="text-align: center;">350</td>
-          <td style="text-align: center;">500</td>
-        </tr>
-        <tr>
+# xdesign
+
+> Данная смета включает разработку полного дизайн-проекта для магазина "под ключ".
+>> Предусмотрены три варианта: **Старт**, **Оптима** и **Премиум**, различающиеся по объему и детализации работ.
+
+## Прайс на услуги
+<table style="width:100%; border-collapse: collapse; margin-top: 20px;">
+  <thead>
+    <tr>
+      <th style="text-align: left; padding-right: 10px;">Услуга</th>
+      <th style="text-align: center; padding-left: 10px; padding-right: 10px;">Старт</th>
+      <th style="text-align: center; padding-left: 10px; padding-right: 10px;">Оптима</th>
+      <th style="text-align: center; padding-left: 10px;">Премиум</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="4" style="text-align: center;">
+        <h3>Фирменный стиль</h3>
+      </th>
+    </tr>
+    <tr>
+      <td style="text-align: left;">Разработка логотипа (концепций)</td>
+      <td style="text-align: center;">Только адаптация</td>
+      <td style="text-align: center;">2 концепции</td>
+      <td style="text-align: center;">Полная разработка (логотип + разные форматы)</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;">Разработка цветовой палитры</td>
+      <td style="text-align: center;">Нет</td>
+      <td style="text-align: center;">Да</td>
+      <td style="text-align: center;">Да</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;">Разработка шрифта</td>
+      <td style="text-align: center;">Нет</td>
+      <td style="text-align: center;">Да</td>
+      <td style="text-align: center;">Да + эмоджи-пак для Telegram</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;">Изображения для постов (заглушки)</td>
+      <td style="text-align: center;">Базовый набор</td>
+      <td style="text-align: center;">Материал на 30 дней</td>
+      <td style="text-align: center;">С шаблонами для ИИ</td>
+    </tr>
+    <tr style="background-color: #f0f0f0;">
+      <td style="text-align: left;">Стоимость (US$)</td>
+      <td style="text-align: center;">200</td>
+      <td style="text-align: center;">350</td>
+      <td style="text-align: center;">500</td>
+    </tr>
+    <tr>
           <th colspan="4" style="text-align: center;">
             <h3>II. Оформление ветки на Лиге</h3>
           </th>
@@ -189,9 +154,9 @@
           <td style="text-align: center;">Обсуждается</td>
         </tr>
         <tr>
-          <td colspan="4" style="text-align: center; font-style: italic;">
-            Правки вносятся на финальной стадии каждой работы.
-          </td>
+          <th colspan="4" style="text-align: center; font-style: italic;">
+            <i>Правки вносятся на финальной стадии каждой работы.</i>
+          </th>
         </tr>
         <tr>
           <th colspan="4" style="text-align: center;">
@@ -199,32 +164,29 @@
           </th>
         </tr>
         <tr style="background-color: #f0f0f0;">
-          <td style="text-align: left;">Стоимость за пакет</td>
-          <td style="text-align: center;">700 US$</td>
-          <td style="text-align: center;">1200 US$</td>
-          <td style="text-align: center;">2000 US$</td>
+          <td style="text-align: left;"><mark><b>Стоимость за пакет</b></mark></td>
+          <td style="text-align: center;"><b>700 $</b></td>
+          <td style="text-align: center;"><b>1200 $</b></td>
+          <td style="text-align: center;"><b>2000 $</b></td>
         </tr>
-      </tbody>
-    </table>
-     <br>
-    <h3>Условия сотрудничества</h3>
-    <ul>
-      <li>Предоплата: 50% от стоимости выбранного пакета.</li>
-      <li>Сроки: поэтапное оформление, полный дизайн – за 1 месяц.</li>
-      <li>Оплата: через гаранта или 100% предоплата (без посредников).</li>
-    </ul>
-    <h3>Дополнительные услуги</h3>
-    <ul>
-      <li>Сайт-лендинг (WordPress / Tilda / Wix): от 200 US$</li>
-      <li>Нейминг магазина: от 200 US$</li>
-      <li>Саппорт/админ в Telegram:
-        <ul>
-          <li>Раздельно – от 75 US$ / неделя</li>
-          <li>Вместе – 100 US$ / неделя (антиспам, боты)</li>
-        </ul>
-      </li>
-      <li>PR-специалист (подбор площадок + рассылка): от 50 US$ / неделя</li>
-    </ul>
-   </div>
-  </body>
-</html>
+  </tbody>
+</table>
+
+***
+
+### Условия сотрудничества
+
+- **Предоплата**: 50% от стоимости выбранного пакета.
+- **Сроки**: поэтапное оформление, полный дизайн – за 1 месяц.
+- **Оплата**: через гаранта или 100% предоплата (без посредников).
+
+### Дополнительные услуги
+
+- **Сайт-лендинг (WordPress / Tilda / Wix)**: от 200 US$
+- **Нейминг магазина**: от 200 US$
+- **Саппорт/админ в Telegram**:
+  - Раздельно – от 75 US$ / неделя
+  - Вместе – 100 US$ / неделя (антиспам, боты)
+- **PR-специалист (подбор площадок + рассылка)**: от 50 US$ / неделя
+
+***
